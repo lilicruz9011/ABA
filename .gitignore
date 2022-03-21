@@ -2,7 +2,6 @@ __pycache__
 .git
 ABA_App/migrations/
 ABA_App/admin.py 
-
 db.sqlite3
 ABA/__pycache__
 ABA_App/__pycache__
